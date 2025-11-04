@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Abrar",
+        "age": 21,
+        "skills": [
+            "Python",
+            "FastAPI"
+        ]
+    },
+    {
+        "name": "khan1",
+        "age": 44,
+        "skills": [
+            "backchodi",
+            "masti"
+        ]
+    },
+    {
+        "name": "khan",
+        "age": 900,
+        "skills": [
+            "backchodi",
+            "masti"
+        ]
+    },
+    {
+        "name": "khan44",
+        "age": 44,
+        "skills": [
+            "backchodi",
+            "masti"
+        ]
+    },
+    {
+        "name": "khan3",
+        "age": 44,
+        "skills": [
+            "backchodi",
+            "masti"
+        ]
+    }
+]
